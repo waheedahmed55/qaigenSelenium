@@ -1,0 +1,11 @@
+Execution
+.metadata
+.gradle
+.settings
+.idea
+.gradle
+target
+test-output
+build
+*.iml
+

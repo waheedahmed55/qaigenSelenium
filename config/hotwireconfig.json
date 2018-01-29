@@ -1,0 +1,21 @@
+{
+  "appconfig": {
+    "env" : {
+      "dev" : {
+        "url": "https://www.hotwire.com"
+      },
+
+      "integration" : {
+        "url": "https://www.hotwire.com"
+      },
+
+      "staging" : {
+        "url": "https://www.hotwire.com"
+      },
+
+      "production" : {
+        "url": "https://www.hotwire.com"
+      }
+    }
+  }
+}

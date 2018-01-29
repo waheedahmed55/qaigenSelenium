@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HotwireSuite">
+    <test name="HotwireTests" thread-count="3" parallel="instances">
+        <classes>
+            <class name="com.tests.ui.web.hotwire.TestsForSearch">
+                <methods>
+                    <include name="testShouldDisplayResultsForBundleSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
